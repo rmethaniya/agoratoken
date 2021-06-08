@@ -1,0 +1,19 @@
+{
+  "name": "DynamicKeyServer-nodejs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.16.4"
+  },
+  "author": "Agora.IO",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgoraLab/DynamicKeyServer-nodejs.git"
+  },
+  "license": "MIT"
+}
